@@ -1,8 +1,14 @@
 #EXTM3U
 \n# Begin: https://raw.githubusercontent.com/clarityfork/Itv/refs/heads/main/Sonyliv.m3u
 #EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#
 #EXTINF:-1  tvg-name="India Life" group-title="Overseas" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240515_1638207054808583530763768.png", India Life HD
 https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="923" tvg-logo="https://tatalogo.pages.dev/923.png" group-title="Infotainment", Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" tvg-chno="3" group-title="Sony LIV ",Sony SAB TV HD 
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony Max HD 
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="7" group-title="Sony LIV ",Sony Max2 HD 
@@ -11,8 +17,6 @@ https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="Sony LIV ",Sony pix HD 
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" tvg-chno="10" group-title="Sony LIV ",Sony SAB TV HD 
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="11" group-title="Sony LIV ",Sony Max HD 
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" tvg-chno="12" group-title="Sony LIV ",Sony sports ten 5
@@ -39,8 +43,6 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony WAH HD 
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-#EXTINF: -1 tvg-id="923" tvg-logo="https://tatalogo.pages.dev/923.png" group-title="Infotainment", Travelxp 4K HDR
-https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 \n# Begin: https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/Zee%20Channel.m3u
 #EXTINF
 
