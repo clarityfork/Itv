@@ -1,4 +1,4 @@
-name: Combine M3U Playlists
+name: Itv M3U Playlists
 
 on:
   schedule:
@@ -13,12 +13,12 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Combine M3U files
+      - name: Itv M3U files
         run: |
-          echo "#EXTM3U" > combined.m3u
+          echo "#EXTM3U" > Itv.m3u
           while read url; do
-            echo "\n# Begin: $url" >> combined.m3u
-            curl -s "$url" >> combined.m3u
+            echo "\n# Begin: $url" >> Itv.m3u
+            curl -s "$url" >> Itv.m3u
           done < sources.txt
 
       - name: Commit and push changes
@@ -26,5 +26,5 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add combined.m3u
-          git commit -m "Update combined.m3u" || echo "No changes to commit"
+          git commit -m "Update Itv.m3u" || echo "No changes to commit"
           git push origin main
