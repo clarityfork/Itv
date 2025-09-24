@@ -4,21 +4,29 @@
 #EXTINF: -1 tvg-id="923" tvg-logo="https://tatalogo.pages.dev/923.png" group-title="Infotainment", Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" tvg-chno="1" group-title="Sony LIV ",Sony SET HD 
-https://dish.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
+#https://dish.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" tvg-chno="2" group-title="Sony LIV ",Sony SAB HD 
-https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="3" group-title="Sony LIV ",Sony Max HD 
-https://dish.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
+#https://dish.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="3" group-title="Sony LIV ",Sony Max HD
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
+#https://dish.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="4" group-title="Sony LIV ",Sony Max2 HD 
-https://dish.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
+#https://dish.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="5" group-title="Sony LIV ",Sony WAH HD 
-https://dish.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
+#https://dish.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PAL-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony pal HD 
-https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
+#https://dish.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" tvg-chno="7" group-title="Sony LIV ",Sony Max
-https://dish.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
+#https://dish.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" tvg-chno="8" group-title="Sony LIV ",Sony Yay SD
-https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
+#https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="9" group-title="Sony LIV ",Sony sports ten 3 HD 
 https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
 #https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
