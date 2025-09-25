@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png",Aajtak HD live
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
-#EXTINF: -1 tvg-id="923" tvg-logo="https://tatalogo.pages.dev/923.png" group-title="Infotainment", Travelxp 4K HDR
+#EXTINF: -1 tvg-id="923" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Travelxp_4K_HDR.svg" group-title="Infotainment", Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" tvg-chno="1" group-title="Sony LIV ",Sony SET HD 
 https://dishmt.slivcdn.com/hls/live/2011671/SETHD/hdntl=exp=1758807631~acl=/*~id=f0336a06-b315-41b2-837a-779dcf3fe934~data=hdntl~hmac=3b6f80a9b998fba728742bcd0673c600da10393a28a68275d8e05adc69979182/master_3500.m3u8
