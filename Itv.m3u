@@ -12,22 +12,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - Final - 28 Sep 2025 [ENG] - Asia Cup 2025
-https://dai.google.com/ssai/event/yk9L2U37Sgilimx_SKGHhw/master.m3u8eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
+https://liveakmt-p-web.slivcdn.com/hls/live/2119931/cricacc12809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1759116828~acl=/*~id=39242791254669361654385202201175~hmac=a354f555c16230aef3d10d0a0f197c4d1ae67518ba8e12a900617ab538466ed2
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - Final - 28 Sep 2025 [TAM] - Asia Cup 2025
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd970182894677739~hmac=b56cafbfc6eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
+https://liveakmt-p-web.slivcdn.com/hls/live/2119951/cricacc12809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1759116828~acl=/*~id=39242791254669361654385202201175~hmac=a354f555c16230aef3d10d0a0f197c4d1ae67518ba8e12a900617ab538466ed2
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - Final - 28 Sep 2025 [TEL] - Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2119941/cricacc12809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1759108280~acl=/*~id=70045253478677999970182894677739~hmac=b56cafbfc6eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
+https://liveakmt-p-web.slivcdn.com/hls/live/2119941/cricacc12809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1759116828~acl=/*~id=39242791254669361654385202201175~hmac=a354f555c16230aef3d10d0a0f197c4d1ae67518ba8e12a900617ab538466ed2
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - Final - 28 Sep 2025 [HIN] - Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759108280~acl=/*~id=70045253478677999970182894677739~hmac=b56cafbfc6eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893258026701_World_Para_Athletics_Championships_2025_DAY_2_landscape_thumb.jpg" group-title="sonyliv-Sports", Day 2 - 28 Sep 2025 [ENG] - World Para Athletics, New Delhi
-https://liveakmt-p.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759108280~acl=/*~id=70045253478677999970182894677739~hmac=b56cafbfc6eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
+https://liveakmt-p-web.slivcdn.com/hls/live/2119921/cricacc12809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1759116828~acl=/*~id=39242791254669361654385202201175~hmac=a354f555c16230aef3d10d0a0f197c4d1ae67518ba8e12a900617ab538466ed2
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008124/1757519271371180_Bundesliga_25_26_SC_Freiburg_vs_Hoffenheim_landscape_thumb.jpg" group-title="sonyliv-Football", SC Freiburg vs Hoffenheim - 27 Sep 2025 [ENG] - Bundesliga 2025-26
-https://liveakmt-p.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759108280~acl=/*~id=70045253478677999970182894677739~hmac=b56cafbfc6eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
+https://liveakmt-p-web.slivcdn.com/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759116828~acl=/*~id=39242791254669361654385202201175~hmac=a354f555c16230aef3d10d0a0f197c4d1ae67518ba8e12a900617ab538466ed2
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000008126/1757583732911248_Bundesliga_25_26_FC_Koln_vs_VfB_Stuttgart_landscape_thumb.jpg" group-title="sonyliv-Football", FC Koln vs VfB Stuttgart - 28 Sep 2025 [ENG] - Bundesliga 2025-26
+https://liveakmt-p-web.slivcdn.com/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759116828~acl=/*~id=39242791254669361654385202201175~hmac=a354f555c16230aef3d10d0a0f197c4d1ae67518ba8e12a900617ab538466ed2
 
 \n# Begin: https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/Zee%20Channel.m3u
 #EXTINF
@@ -160,7 +160,6 @@ http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
 
 #EXTINF:-1, &PRIVE HD 195.181.169.162
 http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
-
 
 
 
@@ -5682,4 +5681,3 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1759149261~acl=%2f*~data=hdntl~hmac=778bb93199ad8f149c53e501b122c2d01728d4b01a5136a317b52d99d3e2828d
-
