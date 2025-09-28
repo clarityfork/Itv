@@ -3,7 +3,7 @@ name: Itv M3U Playlists
 on:
   schedule:
     - cron: '*/10 * * * *'  # Runs every 10 minutes
-  workflow_dispatch:     # You can trigger it manually too
+  workflow_dispatch:        # You can trigger it manually too
 
 jobs:
   build:
