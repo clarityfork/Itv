@@ -15,7 +15,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dai.google.com/ssai/event/yk9L2U37Sgilimx_SKGHhw/master.m3u8eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - Final - 28 Sep 2025 [TAM] - Asia Cup 2025
-https://liveakmt-p.slivcdn.com/hls/live/2119951/cricacc12809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1759108280~acl=/*~id=70045253478677999970182894677739~hmac=b56cafbfc6eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd970182894677739~hmac=b56cafbfc6eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009520/1758993791706809_ACC25_Final_IND_vs_PAK_27sep_clean_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", India vs Pakistan - Final - 28 Sep 2025 [TEL] - Asia Cup 2025
 https://liveakmt-p.slivcdn.com/hls/live/2119941/cricacc12809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1759108280~acl=/*~id=70045253478677999970182894677739~hmac=b56cafbfc6eed5c062d83ee24b5634d2f67750bf23a6c67cf4127227f0a13ee7
@@ -5682,3 +5682,4 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl
 #EXTINF:-1 tvg-id="0-9-9z5398761" group-title="Spiritual" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1759149261~acl=%2f*~data=hdntl~hmac=778bb93199ad8f149c53e501b122c2d01728d4b01a5136a317b52d99d3e2828d
+
