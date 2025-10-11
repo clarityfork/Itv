@@ -49,6 +49,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147625455684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscapet_thumb_Clean.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025 [ENG] - UFC Fight Night - Oliveira vs Gamrot
+https://liveakmt-p-web.slivcdn.com/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760266822~acl=/*~id=41697017109021322005071472894966~hmac=ac7f63d958d0152e77e6036bcb1f7fc99c35cfe7bbc5888e9b49c29bff1bfc0c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147625455684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscapet_thumb_Clean.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025 [HIN] - UFC Fight Night - Oliveira vs Gamrot
+https://liveakmt-p-web.slivcdn.com/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760266822~acl=/*~id=41697017109021322005071472894966~hmac=ac7f63d958d0152e77e6036bcb1f7fc99c35cfe7bbc5888e9b49c29bff1bfc0c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147625455684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscapet_thumb_Clean.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025 [TAM] - UFC Fight Night - Oliveira vs Gamrot
+https://liveakmt-p-web.slivcdn.com/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760266822~acl=/*~id=41697017109021322005071472894966~hmac=ac7f63d958d0152e77e6036bcb1f7fc99c35cfe7bbc5888e9b49c29bff1bfc0c
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010118/1760147625455684_UFC-Fight-Night_Oliveira_vs_Gamrot_Landscapet_thumb_Clean.jpg" group-title="sonyliv-Fight Sports", UFC Fight Night - Oliveira vs Gamrot - 12 Oct 2025 [TEL] - UFC Fight Night - Oliveira vs Gamrot
+https://liveakmt-p-web.slivcdn.com/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760266822~acl=/*~id=41697017109021322005071472894966~hmac=ac7f63d958d0152e77e6036bcb1f7fc99c35cfe7bbc5888e9b49c29bff1bfc0c
+
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
