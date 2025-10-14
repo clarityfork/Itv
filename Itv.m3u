@@ -49,6 +49,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009847/1759546198847839_EQ2526_MD8_Estonia_vs_Moldova_3oct_landscape_thumb.jpg" group-title="sonyliv-Football", Estonia vs Moldova - MD 8 - 14 Oct 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
+https://liveakmt-p-web.slivcdn.com/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760498626~acl=/*~id=23190193787856735491794577017143~hmac=c62173da3682289b562c9fe026b911e1a8be0b798fb5f0e16ec885826830e6b2
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009887/1759600073545527_UEFA_INT_Friendlies_Norway_vs_New_Zealand_4oct_landscape_thumb.jpg" group-title="sonyliv-Football", Norway vs New Zealand - 14 Oct 2025 [ENG] - UEFA International Friendlies
+https://liveakmt-p-web.slivcdn.com/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1760498626~acl=/*~id=23190193787856735491794577017143~hmac=c62173da3682289b562c9fe026b911e1a8be0b798fb5f0e16ec885826830e6b2
+
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
