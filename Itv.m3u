@@ -49,9 +49,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010322/1760663402320282_NZvsENG25_1t20i_14oct_live_landscape_thumb_re1.jpg" group-title="sonyliv-Cricket", 1st T20I - 18 Oct 2025 [ENG] - England Tour of New Zealand 2025
-https://liveakmt-p-web.slivcdn.com/hls/live/2018457/engvsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1760822328~acl=/*~id=40698811053983870192768361388810~hmac=c1efed3078ac9e5554b5ea35a59775989584715fbd96384372380b7e7e0631f5
-
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
