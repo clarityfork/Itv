@@ -49,6 +49,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009886/1759591041448218_bliga2526_MD8_Werder_Bremen_vs_Union_Berlin_3oct_landscape_thumb.jpg" group-title="sonyliv-Football", Werder Bremen vs Union Berlin - MD 8 - 24 Oct 2025 [ENG] - Bundesliga 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761372027~acl=/*~id=91802699577146041193945891245952~hmac=d8cba5985b4bc8e87b8cac5532096a29682b736c677b7db27ed77044665346cb
+
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
