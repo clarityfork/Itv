@@ -50,7 +50,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551529735169_ATP_Rolex_Paris25_round1_27oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Round 1 - 27 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761602891~acl=/*~id=69781696585678889747016780393246~hmac=3c32e38e03e26cbb7f0deee6908d0c83c079f20f2db6d17f8d7332cf57ae4ff8
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761604726~acl=/*~id=98296060570699429277674539218642~hmac=7ac9fc7d9dee064be5facd8cea6316ecf7beca70bdaca99c928efc80a48762de
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
@@ -5529,7 +5529,7 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-bigganga|Referer=https://onezoo.n
 #EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",English &flix HD
 https://servertvhub.site/zee5-main/index.php?id=0-9-channel_2105335046&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0|Referer=https://servertvhub.site/zee5-main/index.php?id=0-9-348&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
-#EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_Caf%C3%A9_HD_2017_Bug.jpg/revision/latest?cb=20240320185107" group-title="ZEE5",English Zee Cafe HD
+#EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/IMG_20250915_083043.jpg" group-title="ZEE5",English Zee Cafe HD
 https://servertvhub.site/zee5-main/index.php?id=0-9-zeecafehd&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0|Referer=https://servertvhub.site/zee5-main/index.php?id=0-9-348&%7CUser-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/131.0.0.0
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="ZEE5",&Prive HD
@@ -5604,6 +5604,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Zee Channels",English &Flix SD PeoTV Go
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+
 
 
 
