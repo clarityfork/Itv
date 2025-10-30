@@ -49,6 +49,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010566/1761551544225169_ATP_Rolex_Paris25_round3_27oct_landscape_thumb.jpg" group-title="sonyliv-Tennis", Round 3 - 30 Oct 2025 [ENG] - ATP Masters 1000 - 2025 Rolex Paris Open
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1761859845~acl=/*~id=66074802187579832785526108348990~hmac=e45132d50eabb067c19d18b8ab0e98ef4eafdf9d307a785c14060a50c68b8057
+
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
