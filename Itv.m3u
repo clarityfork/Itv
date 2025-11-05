@@ -49,11 +49,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010673/1761882111470917_UYL25_MD4_Ajax_vs_Galatasaray_landscape_thumb.jpg" group-title="sonyliv-Football", Ajax vs Galatasaray - MD 4 - 5 Nov 2025 [ENG] - UEFA Youth League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762397110~acl=/*~id=68739436961329323869222382622153~hmac=802c3ef1814a2642c5589e77a2cdc3e14b5e314637cd221b2d8baf5eaa1e0732
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010856/176229113741485_UYL25_MD4_Newcastle_vs_Athleti-Club_landscape_thumb_re1.jpg" group-title="sonyliv-Football", Newcastle vs Athletic Club - MD 4 - 5 Nov 2025 [ENG] - UEFA Youth League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762397110~acl=/*~id=68739436961329323869222382622153~hmac=802c3ef1814a2642c5589e77a2cdc3e14b5e314637cd221b2d8baf5eaa1e0732
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762398327~acl=/*~id=39949737668590356467133856939743~hmac=bb6506c1c33794e48b6cce2311ad6fade573577783220d58d74b694c616b96be
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
