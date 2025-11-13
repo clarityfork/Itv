@@ -49,8 +49,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Puetz/Krawietz vs Vavassori/Bolelli - Group Stage - 13 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763079380~acl=/*~id=13082640979059219737609278538634~hmac=a2dc4bf60caa2f8d90aedaad5c57b8312e8b51b5268130f732c51d68b3415a13
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011090/1762770373997255_ATP_FINALS_Fritz-vs-De-Minaur_landscape_thumb.jpg" group-title="sonyliv-Tennis", Taylor Fritz vs Alex de Minaur - Group Stage - 13 Nov 2025 [ENG] - Nitto ATP Finals 2025
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763083040~acl=/*~id=92111054815605356562959678356523~hmac=3f7a9ba5f2cb440c7f6ee9872a6ef1cb9602f17f06cde92b0e540c78edba59ca
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
