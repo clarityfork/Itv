@@ -49,11 +49,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011205/1763036732581604_AsiaCup_PakA_vs_OMA_12nov_live_landscape_thumb.jpg" group-title="sonyliv-Cricket", Pakistan A vs Oman - 14 Nov 2025  [ENG] - DP World Asia Cup Rising Stars Men's 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1763157977~acl=/*~id=66963818048194869409585601492300~hmac=9ac0346b14a746241459ebe80a9a575029961a096c7a5e0e34037206c6955f7c
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011089/1762779609232352_nitto_atp_finals_group-stage_landscape_thumb-3.jpg" group-title="sonyliv-Tennis", Heliovaara/Patten vs Arevalo-Gonzalez/Pavic - Group Stage - 14 Nov 2025 [ENG] - Nitto ATP Finals 2025
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763157977~acl=/*~id=66963818048194869409585601492300~hmac=9ac0346b14a746241459ebe80a9a575029961a096c7a5e0e34037206c6955f7c
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763160416~acl=/*~id=42599801053372897863775853914817~hmac=c31bbec5b714f6c3b85812dde320e4b0606178179b250792caa1afe5310e6d70
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
