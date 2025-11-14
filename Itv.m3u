@@ -49,6 +49,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000010902/1762354789267408_EQFs_MD9_Finland_vs_Malta_3nov_landscape_thumb.jpg" group-title="sonyliv-Football", Finland vs Malta - MD 9 - 14 Nov 2025 [ENG] - European Qualifiers For 2026 FIFA World Cup
+https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1763180520~acl=/*~id=39492910396143528015168049066966~hmac=c59b37f3e911ddd2848c7184998cfecea450e615313de59904ddec72861349a6
+
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
