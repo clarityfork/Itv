@@ -49,6 +49,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763501380375411_UYL2526_MD5_Frankfurt_vs_Atalanta_18nov_landscape_thumb.jpg" group-title="sonyliv-Football", Frankfurt vs Atalanta - MD 5 - 26 Nov 2025 [ENG] - UEFA Youth League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764213996~acl=/*~id=14874119037317887006134342164846~hmac=e94bb2b98b1c3b34fa4b654981f475165309d8a654511e37ede172524e82da61
+
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #Generated on 1764160942
