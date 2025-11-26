@@ -49,12 +49,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763481588677274_UCL2526_MD5_Arsenal_vs_Bayern_14nov_landscape_thumb.jpg" group-title="sonyliv-Football", Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025 [ENG] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764239025~acl=/*~id=25076399430457905332596598991112~hmac=a78d54e84e617bdfea2b8e78a2d1c3d97f8f48ac0130fd61915eef4f7b65721d
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011524/1763481588677274_UCL2526_MD5_Arsenal_vs_Bayern_14nov_landscape_thumb.jpg" group-title="sonyliv-Football", Arsenal vs Bayern Munich - MD 5 - 27 Nov 2025 [HIN] - UEFA Champions League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764239025~acl=/*~id=25076399430457905332596598991112~hmac=a78d54e84e617bdfea2b8e78a2d1c3d97f8f48ac0130fd61915eef4f7b65721d
-
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #Generated on 1764160942
