@@ -48,8 +48,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="23" group-title="Sony LIV ",Sony Yay 
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
-429: Too Many Requests
-For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).\n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011535/1763501198856411_UYL2526_MD5_Arsenal_vs_Bayern_18nov_landscape_thumb.jpg" group-title="sonyliv-Football", Arsenal vs Bayern Munich - MD 5 - 26 Nov 2025 [ENG] - UEFA Youth League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1764206068~acl=/*~id=66875453368346117217935880795962~hmac=3e3afb6b5c514016aace4db444b48498ebec9b741d8222b79c81acc49f02059e
+
+\n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #Generated on 1764160942
 
