@@ -50,10 +50,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740530232688_UYL2526_MD6_Real_Madrid_vs_Man_City_2dec_landscape_thumb.jpg" group-title="sonyliv-Football", Real Madrid vs Man City - MD 6 - 10 Dec 2025 [ENG] - UEFA Youth League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011994/1764740112914688_UYL2526_MD6_Brugge_vs_Arsenal_2dec_landscape_thumb.jpg" group-title="sonyliv-Football", Club Brugge vs Arsenal - MD 6 - 10 Dec 2025 [ENG] - UEFA Youth League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765422682~acl=/*~id=60433431909341767952714446639622~hmac=0376ded228a25f62881df17cd9145049f3552b094669c90c253c7fdb208b47ab
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765424505~acl=/*~id=32740643827578679350552575146545~hmac=8a4c82fb4119f300fe9619f9c5884c93df3ce9a6e78a692989d475f375ad705b
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
