@@ -49,9 +49,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737872643679_AsianTour25_Saudi_Open_presented_by_PIF_Day2_2dec_landscape_thumb.jpg" group-title="sonyliv-Golf", PIF Saudi Open - Day 2 - 11 Dec 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765502463~acl=/*~id=81585173442287443376524077716650~hmac=7d8e489f333e2390ffacfe66cd3176373ee2f16e8c43b8737b208735fb8c1620
-
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #Generated on 1765457141
@@ -5506,37 +5503,37 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd?__hdnea
 
 #EXTINF:-1 tvg-id="Zee Zest HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog2096037619.png" group-title="ZEE5",Zee Zest HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index/index.m3u8?hdntl=exp=1765457010~acl=%2f*~id=280b974e-3cb4-4626-b86f-9468fa7ba041~data=hdntl~hmac=a78d36de5e80ad0fc7f0cdf5283d98a702e81849aa9ba6ace6333c6bdcb92f7a
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Zest-HD/index/index.m3u8?hdntl=exp=1765543541~acl=%2f*~id=6db045be-710c-4bc8-8367-2d9e5eb70420~data=hdntl~hmac=71318561184487e6a2d8185592d8a45d658327ae96533d60d2267c724ce50971
 
 #EXTINF:-1 tvg-id="&Xplor HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_list/1170x658withlogo358457080.png" group-title="ZEE5",&xplorHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1765457010~acl=%2f*~id=280b974e-3cb4-4626-b86f-9468fa7ba041~data=hdntl~hmac=a78d36de5e80ad0fc7f0cdf5283d98a702e81849aa9ba6ace6333c6bdcb92f7a
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1765543541~acl=%2f*~id=6db045be-710c-4bc8-8367-2d9e5eb70420~data=hdntl~hmac=71318561184487e6a2d8185592d8a45d658327ae96533d60d2267c724ce50971
 
 #EXTINF:-1 tvg-id="Zee Classic" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Classic.png" group-title="ZEE5",Zee Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1765457010~acl=%2f*~id=280b974e-3cb4-4626-b86f-9468fa7ba041~data=hdntl~hmac=a78d36de5e80ad0fc7f0cdf5283d98a702e81849aa9ba6ace6333c6bdcb92f7a
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1765543541~acl=%2f*~id=6db045be-710c-4bc8-8367-2d9e5eb70420~data=hdntl~hmac=71318561184487e6a2d8185592d8a45d658327ae96533d60d2267c724ce50971
 
 
 #EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png" group-title="ZEE5",Big Magic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1765457010~acl=%2f*~id=280b974e-3cb4-4626-b86f-9468fa7ba041~data=hdntl~hmac=a78d36de5e80ad0fc7f0cdf5283d98a702e81849aa9ba6ace6333c6bdcb92f7a
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1765543541~acl=%2f*~id=6db045be-710c-4bc8-8367-2d9e5eb70420~data=hdntl~hmac=71318561184487e6a2d8185592d8a45d658327ae96533d60d2267c724ce50971
 
 #EXTINF:-1 tvg-id="Zee Anmol Cinema 2" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_list/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" group-title="ZEE5",Zee Anmol Cinema 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8?hdntl=exp=1765457010~acl=%2f*~id=280b974e-3cb4-4626-b86f-9468fa7ba041~data=hdntl~hmac=a78d36de5e80ad0fc7f0cdf5283d98a702e81849aa9ba6ace6333c6bdcb92f7a
+https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-2-SD/master/master.m3u8?hdntl=exp=1765543541~acl=%2f*~id=6db045be-710c-4bc8-8367-2d9e5eb70420~data=hdntl~hmac=71318561184487e6a2d8185592d8a45d658327ae96533d60d2267c724ce50971
 
 
 #EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",English &flix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1765457010~acl=%2f*~id=280b974e-3cb4-4626-b86f-9468fa7ba041~data=hdntl~hmac=a78d36de5e80ad0fc7f0cdf5283d98a702e81849aa9ba6ace6333c6bdcb92f7a
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1765543541~acl=%2f*~id=6db045be-710c-4bc8-8367-2d9e5eb70420~data=hdntl~hmac=71318561184487e6a2d8185592d8a45d658327ae96533d60d2267c724ce50971
 
 #EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="ZEE5",English Zee Cafe HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1765457010~acl=%2f*~id=280b974e-3cb4-4626-b86f-9468fa7ba041~data=hdntl~hmac=a78d36de5e80ad0fc7f0cdf5283d98a702e81849aa9ba6ace6333c6bdcb92f7a
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1765543541~acl=%2f*~id=6db045be-710c-4bc8-8367-2d9e5eb70420~data=hdntl~hmac=71318561184487e6a2d8185592d8a45d658327ae96533d60d2267c724ce50971
 
 #EXTINF:-1 tvg-id="&Prive HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1920x1080listd4a78816ce2d4ea7afc7efe5e639e9cd.jpg" group-title="ZEE5",&Prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1765457010~acl=%2f*~id=280b974e-3cb4-4626-b86f-9468fa7ba041~data=hdntl~hmac=a78d36de5e80ad0fc7f0cdf5283d98a702e81849aa9ba6ace6333c6bdcb92f7a
+https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1765543541~acl=%2f*~id=6db045be-710c-4bc8-8367-2d9e5eb70420~data=hdntl~hmac=71318561184487e6a2d8185592d8a45d658327ae96533d60d2267c724ce50971
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5628,6 +5625,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Zee Channels",English &Flix SD PeoTV Go
 https://edge4-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+
 
 
 
