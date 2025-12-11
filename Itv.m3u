@@ -49,11 +49,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011791/1764096257454276_UEL2526_MD6_Basel_vs_Aston_Villa_25nov_landscape_thumb.jpg" group-title="sonyliv-Football", Basel vs Aston Villa - MD 6 - 12 Dec 2025 [ENG] - UEFA Europa League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765534146~acl=/*~id=36336615399090264626609895221916~hmac=7a849276deb86e4bf0af6bcf0dcbcf999b6fd7c2ac6d1c537440b0701e7230e5
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012144/1765255347137892_NZvsWI25_2nd_test_day3_9dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 2nd Test - Day 3 - 12 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
-https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765534146~acl=/*~id=36336615399090264626609895221916~hmac=7a849276deb86e4bf0af6bcf0dcbcf999b6fd7c2ac6d1c537440b0701e7230e5
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1765535361~acl=/*~id=27437537702478441198212300082873~hmac=36ef05ef98f84d0c8e171cefbd989e3a944224f1c150fc25d597473d6db0bf15
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
