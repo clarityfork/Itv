@@ -49,12 +49,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012245/1765444000776333_AC25_U19_IND_vs_UAE_11dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", India U19 vs UAE U19 - 12 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
-https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765584075~acl=/*~id=52152650197060879652106559892709~hmac=40bb47bdf71d7b2013562f1b2e8408a1d40faad131700330ad436dd1acbf1b4b
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011992/1764737880245679_AsianTour25_Saudi_Open_presented_by_PIF_Day3_2dec_landscape_thumb.jpg" group-title="sonyliv-Golf", PIF Saudi Open - Day 3 - 12 Dec 2025 [ENG] - Asian Tour 2025
-https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765584075~acl=/*~id=52152650197060879652106559892709~hmac=40bb47bdf71d7b2013562f1b2e8408a1d40faad131700330ad436dd1acbf1b4b
-
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #Generated on 1765543395
@@ -5531,7 +5525,7 @@ https://z5live-cf.zee5.com/out/v1/ZEE5_Live_Channels/Zee-Ganga-Zee-Anmol-Cinema-
 
 #EXTINF:-1 tvg-id="English &Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1284,h_723,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list5d289fc39bef4ebca19c6bfe64e46e26.jpg" group-title="ZEE5",English &flix HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1765590111~acl=%2f*~id=320aede7-a8eb-49c1-9fe1-33f1a402c63e~data=hdntl~hmac=76be5156d886f2d33b82c956c3bd21685eae433a5562aa8a5691f93a55ece0af
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1765629795~acl=%2f*~id=8b5a83ac-714e-4523-8fab-072197688637~data=hdntl~hmac=1f26174966b1aaeeb995300486d171076e5b0afb4fd1e28667a0b7a6baeb703e
 
 #EXTINF:-1 tvg-id="English Zee Cafe HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list813457fc09e349d9ac922d5268ecbf8a.jpg" group-title="ZEE5",English Zee Cafe HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -5631,6 +5625,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="Zee Channels",English &Flix SD PeoTV Go
 https://edge4-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+
 
 
 
