@@ -48,7 +48,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="23" group-title="Sony LIV ",Sony Yay 
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
-Error: No matches found in JSON\n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012248/1765446765258679_AC25_U19_SL_vs_NEP_11dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Sri Lanka U19 vs Nepal U19 - 13 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765652391~acl=/*~id=38028109503468824166488696832697~hmac=505b8b6a1beb4dcc377cdd4f6827841f291714c036d224e9fafcd72bdaf363f0
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012247/1765445978616868_AC25_U19_AFG_vs_BAN_11dec_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Afghanistan U19 vs Bangladesh U19 - 13 Dec 2025 [ENG] - DP World Men's U19 Asia Cup 2025
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20-criclive/std_lrh-800300010.m3u8?hdnea=exp=1765652391~acl=/*~id=38028109503468824166488696832697~hmac=505b8b6a1beb4dcc377cdd4f6827841f291714c036d224e9fafcd72bdaf363f0
+
+\n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #Generated on 1765589282
 
