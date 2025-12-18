@@ -49,8 +49,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546480148346_NZvsWI25_3rd_test_day_2_12dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd Test - Day 2 - 19 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766135413~acl=/*~id=48677626749048526311632294440986~hmac=abe7bc68847cb6c9e0eda13993e0dc022b1060c934ee717ea0f4b5c105932dff
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011931/1764523912887515_UECL2526_MD6_Crystal_Palace_vs_Kuopion_Palloseura_30nov_landscape_thumb.jpg" group-title="sonyliv-Football", Crystal Palace vs Kuopion Palloseura - MD 6 - 19 Dec 2025 [ENG] - UEFA Conference League 2025-26
-https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766133589~acl=/*~id=18648344354984032324749629951648~hmac=8aa33b9dd6c4913f6690b55e77382b8ff1a79af1dcd445fd26b16183af74a17d
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1766135413~acl=/*~id=48677626749048526311632294440986~hmac=abe7bc68847cb6c9e0eda13993e0dc022b1060c934ee717ea0f4b5c105932dff
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
