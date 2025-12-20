@@ -49,6 +49,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012326/1765546513450346_NZvsWI25_3rd_test_day_4_12dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", 3rd Test - Day 4 - 21 Dec 2025 [ENG] - West Indies Tour of New Zealand 2025
+https://sonydaimenew.akamaized.net/hls/live/2018457/wivsnz/ENG/std_lrh-800300010.m3u8?hdnea=exp=1766307860~acl=/*~id=05223972476941441949253581504307~hmac=2cae711cc7f3b5b9e4208ef1a3fccfdef8888ab017626bcca12ebe793205f4ea
+
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #Generated on 1766234305
