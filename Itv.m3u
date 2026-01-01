@@ -5290,8 +5290,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776394511152_SuperSmash2526_womens_Canterbury_Magicians_vs_Central_Hinds_26dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Canterbury Magicians vs Central Hinds - 1 Jan 2026 [ENG] - Super Smash 2025/26 Women's
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767283987~acl=/*~id=23247574860077870624068754251469~hmac=b964372c10381001610bdff882d1ad720fec9159cf8ab398ef912d261c6c985f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012742/1766776649472152_SuperSmash2526_mens_Canterbury_Kings_vs_Central_Stags_26dec_landscape_thumb.jpg" group-title="sonyliv-Cricket", Canterbury Kings vs Central Stags - 1 Jan 2026 [ENG] - Super Smash 2025/26 Men's
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767286421~acl=/*~id=85348388474440303938498922823274~hmac=530300bc485c1149219710e8b36692aabe23a5d624fd4161e7ee96c29e57f237
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
