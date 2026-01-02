@@ -5289,7 +5289,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-WAH-New-Logo.png" tvg-chno="23" group-title="Sony LIV ",Sony Yay 
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
-{"error":"Failed to fetch data from source.","status":502}\n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012824/1767159010787170_UC26_greece_vs_japan_31dec_landscape_thumb.jpg" group-title="sonyliv-Tennis",  Greece vs Japan - 2 Jan 2026 [ENG] - United Cup 2026 
+https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767390432~acl=/*~id=68131538007328602225300260027890~hmac=c36ee78e668ef05e59e30097b5405af1bf1be5e4ef4161003e79bd33a7f37405
+
+\n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
 #Generated on 1767318306
 
