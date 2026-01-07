@@ -5290,8 +5290,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #http://103.182.170.32:8888/play/a04m
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767696632540902_UC26_QF_USA_vs_greece_6jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", USA vs Greece - Quarter-final - 7 Jan 2026 [ENG] - United Cup 2026 
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767814768~acl=/*~id=72140850973821919195016145924750~hmac=89df2aac45d5127d3b6a0aea1e71905f065d27e95d2b9bd01e28753e877b1a06
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013030/1767697177599902_UC26_QF_Switzerland_vs_Argentina_6jan_landscape_thumb.jpg" group-title="sonyliv-Tennis", Switzerland vs Argentina - Quarter-final - 7 Jan 2026 [ENG] - United Cup 2026 
+https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767816594~acl=/*~id=82327731485262262405204569292152~hmac=3d88340c85c4e3bcac3bc1e1445673c05de5a83218db0e1934fad7e968f2a582
 
 \n# Begin: https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
 #EXTM3U
