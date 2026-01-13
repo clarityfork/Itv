@@ -5,6 +5,3 @@ https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/artl.m3u
 https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/amzusa.m3u
 https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/Zee%20Channel.m3u
 https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
-
-
-
