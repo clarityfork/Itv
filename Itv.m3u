@@ -6456,6 +6456,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="Big Magic" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png",Big Magic
+https://fucking-tv-ott.keralive.workers.dev/mumt05/BIGMAGIC/index.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HD6fzl8BRUK-nNH3SRgSBA","kid":"QCNhNFd3TL63GmLDOZcOYw"}],"type":"temporary"}
 #EXTINF:1 tvg-id="Zee Anmol" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png" group-title="Watcho Dishtv",Zee Anmol
@@ -6614,11 +6618,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
 
 
 
+
 \n# Begin: https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014713/1769910295357886_WLP26_RajasthanLions_vs_DelhiWarriors_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Rajasthan Lions vs Delhi Warriors - 2 Feb 2026 [ENG] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770067504~acl=/*~id=82093197562861738444283070112011~hmac=7ef5f3f03524baee5c492ff5b9a5ce1222ac055f678b4ec50cb606213eab1ea4
+https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770070533~acl=/*~id=01859417802959584092078782674531~hmac=7c23e3730446a3cd46f51dbbccbf8aac2f456745dd311ffe0cd96fa044394945
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014713/1769910295357886_WLP26_RajasthanLions_vs_DelhiWarriors_Landscape_thumb.jpg" group-title="sonyliv-Cricket", Rajasthan Lions vs Delhi Warriors - 2 Feb 2026 [HIN] - World Legends Pro T20 League 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770067504~acl=/*~id=82093197562861738444283070112011~hmac=7ef5f3f03524baee5c492ff5b9a5ce1222ac055f678b4ec50cb606213eab1ea4
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1770070533~acl=/*~id=01859417802959584092078782674531~hmac=7c23e3730446a3cd46f51dbbccbf8aac2f456745dd311ffe0cd96fa044394945
 
