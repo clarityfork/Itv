@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/therealddh/dashdottv/refs/heads/main/jiotv.m3u
+https://kliv.fun/jiotvplus
 https://ztv.pfy.workers.dev/
 https://raw.githubusercontent.com/clarityfork/Itv/refs/heads/main/Sonyliv.m3u
 https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u
