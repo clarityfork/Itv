@@ -1,11 +1,2 @@
 https://raw.githubusercontent.com/Arunjunan20/My-IPTV/refs/heads/main/jiostar.m3u
-#https://kliv.fun/jiotvplus
-#https://raw.githubusercontent.com/therealddh/dashdottv/refs/heads/main/jiotv.m3u
-#https://ztv.pfy.workers.dev/
-#https://raw.githubusercontent.com/clarityfork/Itv/refs/heads/main/Sonyliv.m3u
-#https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jstar.m3u
-#https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u
-#https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/artl.m3u
-#https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/amzusa.m3u
 https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/Zee%20Channel.m3u
-#https://raw.githubusercontent.com/abid58b/SonyLivPlayList/refs/heads/main/sonyliv.m3u
