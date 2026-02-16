@@ -1,4 +1,14 @@
 #EXTM3U
+\n# Begin: https://raw.githubusercontent.com/clarityfork/Itv/refs/heads/main/Travel%20and%20aajtak.m3u
+#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png",Aajtak HD live
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_1080p/chunks.m3u8
+#EXTINF: -1 tvg-id="923" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Travelxp_4K_HDR.svg" group-title="Infotainment", Travelxp 4K HDR
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 tvg-logo="002" group-title="Infotainment", 4k Nature
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
 \n# Begin: https://raw.githubusercontent.com/Arunjunan20/My-IPTV/refs/heads/main/jiostar.m3u
 #EXTM3U
 
