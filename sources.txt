@@ -1,4 +1,3 @@
 https://raw.githubusercontent.com/clarityfork/Itv/refs/heads/main/Travel%20and%20aajtak.m3u
 https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/Zee%20Channel.m3u
 https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/Sony%20Channel.m3u
-https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/JioStarNetwork.m3u
