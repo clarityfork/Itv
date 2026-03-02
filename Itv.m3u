@@ -9,6 +9,12 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-logo="002" group-title="Infotainment", 4k Nature
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20#EXTINF:-1%20,Wild%20Earth
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_high.jpg" ,Star Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
+#EXTVLCOPT:http-user-agent=jiotv
+#EXTHTTP:{"cookie":"__hdnea__=st=1772415943~exp=1772502343~acl=/*~hmac=ea087d8e5eaf38c9ad63e00b63a1a393a2913f39ccc1760d2696472202865a50"}
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd
 \n# Begin: https://raw.githubusercontent.com/geekyhimanshu/Khu/refs/heads/main/Zee%20Channel.m3u
 #EXTINF
 
@@ -325,6 +331,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009281&uid=8004188626
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626&pass=61498d15
+
 
 
 
