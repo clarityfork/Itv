@@ -395,8 +395,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 #https://c2ag.short.gy/n/english.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Hindi
-#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
-#https://c2ag.short.gy/n/hin.m3u8
+https://sfsfs.valverdeae7.workers.dev/live.m3u8
 
 #EXTINF:-1 tvg-id="1106" group-title="T20I World Cup" tvg-logo="https://pbs.twimg.com/media/G7vaGYkaMAIIECs.jpg",Hot✨-Tamil
 #EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar.links_macha_official(Android/15)","Telegram":"@watch_clarity","Creator":"@watch_clarity"}
@@ -425,13 +424,13 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009279&uid=8004188626
 
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title=" T20I World Cup",PRIME ENG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a36b6bde0dc341783425ffdee60b193d:bea3ec1a34081e29f91345db607958c1
-#https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/75cpfftavv/out/v1/41e86c3d386a4406afb3620876274222/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=03018e1facaf7f344fa3d7439c6fc5b2:48a92e8fc0c897a7b23044f4b86e544b
+https://otte.cache.aiv-cdn.net/syd-nitro/live/clients/dash/enc/kmdxq2mru1/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
 #https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/wwrmho82pc/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a
 #EXTINF:-1 tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8704/1764056908704-a" group-title=" T20I World Cup",WILLOW ENG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac38fc1a8c759f4d1a43163432e964e9:9a55742c7164153e9440811712faa806
-#https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/glqjh8kskc/out/v1/45bfbb3a527944c295223376e0bb6dc0/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd
 
 
 
@@ -504,6 +503,8 @@ http://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd
 #EXTHTTP:{"cookie":"__hdnea__=st=1772655905~exp=1772742305~acl=/*~hmac=68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58"}
 http://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd
 
+#EXTINF: -1 tvg-id="1301" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TP4K_Thumbnail-v2/TP4K_Thumbnail.png" group-title="T20I World Cup", Star 4K
+https://tvstar.top:443/live/0434102149/0434102149/333368.ts
 # ---------------=== Clarity TV | HOTSTAR ===-------------------
 
 #EXTM3U
